@@ -103,6 +103,7 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 ## 🔐 Security
 
+- [LabEx Security Learning](https://labex.io/learn/cybersecurity) - Plataforma de aprendizado interativo com laboratórios práticos em Linux, DevOps, segurança cibernética, programação e ciência de dados com mais de 6000 exercícios interativos
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme) - Recursos e ferramentas para segurança de aplicativos.
 - [Security](https://github.com/sbilly/awesome-security#readme) - Lista abrangente de recursos de segurança cibernética.
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag: recursos para competições de hacking.
